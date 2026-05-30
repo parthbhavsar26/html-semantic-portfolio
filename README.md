@@ -11,8 +11,10 @@
 
 ANS.1> Box Model.
 
--->. "M"y    "B"ig   "P"urpal  "C"at 
+-->. "M"y    "B"ig   "P"urple  "C"at 
      margin  border  padding   content
+     
+---> Correct order: Content → Padding → Border → Margin
 
 ANS.2> margin vs padding.
 
@@ -30,4 +32,6 @@ ANS.4> inline vs inline-block.
 ANS.5> inline vs width.
 
 --->. doesn't work because inline element size themselve according to their content
+Brif
+//Inline elements are designed to flow within text. Their width is determined by their content only — they expand and shrink with the text inside them. Width and height properties are ignored because applying them would break the text flow the browser is managing. To control size, you switch to inline-block or block.//
 
