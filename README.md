@@ -1,16 +1,21 @@
-# Parth Bhavsar — Portfolio
+# HTML Semantic Portfolio
 
-A personal portfolio website built with semantic HTML5 and CSS.
+A responsive portfolio website built using HTML and CSS.
 
-## Technologies Used
-- HTML5 semantic tags
-- CSS (Box Model, Flexbox)
-
-## What I Learned
+## Features
 - Semantic HTML structure
-- CSS Box Model
-- Flexbox layout
-- grid layout
+- Responsive design
+- Navigation menu
+- Skills section
+- Contact form
+- Clean UI
 
 ## Live Demo
-Coming soon
+https://parthbhavsar26.github.io/html-semantic-portfolio/
+
+## Technologies Used
+- HTML5
+- CSS3
+
+## Author
+Parth Bhavsar
