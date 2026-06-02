@@ -10,6 +10,7 @@ A personal portfolio website built with semantic HTML5 and CSS.
 - Semantic HTML structure
 - CSS Box Model
 - Flexbox layout
+- grid layout
 
 ## Live Demo
 Coming soon
